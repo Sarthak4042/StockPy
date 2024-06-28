@@ -1,6 +1,6 @@
 streamlit
 yfinance
-prophet
+prophet==1.0.1
 plotly
 pandas
 matplotlib
