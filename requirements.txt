@@ -1,8 +1,7 @@
 datetime
 prophet
-prophet.plot
 plotly
 pandas
-matplotlib.pyplot
+matplotlib
 stocknews
 yfinance
