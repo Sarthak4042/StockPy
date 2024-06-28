@@ -1,7 +1,0 @@
-streamlit
-yfinance
-prophet==1.0.1
-plotly
-pandas
-matplotlib
-stocknews
